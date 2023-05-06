@@ -1,4 +1,4 @@
 # Quizduell Game
 Login + registration + Game with Quiz & Timer & .... 
-Full in react logic + CSS
+logic On react + CSS 
 Host the Back Images 
